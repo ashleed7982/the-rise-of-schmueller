@@ -7,6 +7,6 @@ What do you do now?
 
 [Fight Mueller!](godofcoding.md)
 
-[Fight Schmueller!]
+[Fight Schmueller!](fightschm.md)
 
-[...I wanna get a boring ending...](why.md)
+[Can I have a boring ending...?](why.md)
