@@ -3,7 +3,7 @@ He says in a calm voice, "Ah yes, a young pube... Ah fu- I mean, pupil... of Mue
 
 You begin to wonder, "Is he a pedo?"
 
-Schmueller offers you, "Turn your master o- I mean turn on your Master, join us."
+Schmueller offers you, "_Listen here and listen good, Mueller must've told you the prophecy... All of those are lies, lies conjured up to hold you back, he offers to open up the powers in you... He is only holding you back... I can give you the purest gamer problem._"
 
 [Call your mom](gameover2.md)
 

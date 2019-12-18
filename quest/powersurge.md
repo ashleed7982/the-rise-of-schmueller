@@ -5,6 +5,6 @@ Mueller smiles and says, "My pupil, this power within you is pure. Uncontrolled,
 
 ### _Do you want to train?_
 
-[Yeah, lets train!](schmuellervsmueller.md)
+[Yes, lets train!](schmuellervsmueller.md)
 
 [I can get the remote without moving from the couch now...](gameover.md)
