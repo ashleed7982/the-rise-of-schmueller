@@ -5,3 +5,8 @@ You think to yourself, "_**Woah so this is what it feels to drink red bull and a
 
 What do you do now?
 
+[Fight Mueller!](godofcoding.md)
+
+[Fight Schmueller!]
+
+[...I wanna get a boring ending...](why.md)
